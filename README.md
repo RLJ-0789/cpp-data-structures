@@ -53,3 +53,22 @@ cpp-data-structures/
 ├── experiments/
 ├── tests/
 └── docs/# cpp-data-structures
+Environment
+C++
+
+CMake
+
+GCC / Clang
+
+Git
+
+Progress
+This repository is under active development.
+
+The project will gradually evolve from basic implementations
+into experimental studies of algorithms and data structures.
+
+Author
+RLJ-0789
+
+Computer Science and Technology
